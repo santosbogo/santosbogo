@@ -3,7 +3,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosbogo&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&rank=-?,-C&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div id="header" align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0a293eDVoMW5jdWx4eWZ3Mndua2x4aXdqMmJ4ZTd5Mmt5ZWcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="200"/>
+</div>
+
+
 
 <!--
 **santosbogo/santosbogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
