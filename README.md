@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <!--
 **santosbogo/santosbogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
