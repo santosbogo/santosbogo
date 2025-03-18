@@ -1,27 +1,21 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)
+🎓 **Computer Science Student** at **Austral University**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosbogo&show_icons=true&theme=radical)
+[![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)](https://www.linkedin.com/in/santosbogo/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&rank=-?,-C&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosbogo&show_icons=true&theme=radical)](https://www.linkedin.com/in/santosbogo/)
 
-<div id="header" align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0a293eDVoMW5jdWx4eWZ3Mndua2x4aXdqMmJ4ZTd5Mmt5ZWcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="200"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&rank=-?,-C&theme=onedark&column=5&margin-w=15&margin-h=15)](https://www.linkedin.com/in/santosbogo/)
+
+<div>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0a293eDVoMW5jdWx4eWZ3Mndua2x4aXdqMmJ4ZTd5Mmt5ZWcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif" width="200"/>
+  </a>
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/santosbogo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+</div>
 
-
-<!--
-**santosbogo/santosbogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
