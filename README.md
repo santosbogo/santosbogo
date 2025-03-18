@@ -1,8 +1,10 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)
 <!--
 **santosbogo/santosbogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
