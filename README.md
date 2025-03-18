@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)
 
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosbogo&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosbogo&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=santosbogo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
