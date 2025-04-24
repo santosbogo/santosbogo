@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 **Computer Science Student** at **Austral University**.
+🎓 **Software Engineering Student** at **Austral University**.
 
 [![](https://komarev.com/ghpvc/?username=santosbogo&style=for-the-badge)](https://www.linkedin.com/in/santosbogo/)
 
